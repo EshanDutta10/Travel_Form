@@ -1,5 +1,3 @@
-# we will be using the form we did in user input and storing the contents in a new file
-
 from tkinter import *
 
 
